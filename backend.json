@@ -1,0 +1,31 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "JZbU8EL0KHQYqG58Q8g3OePZPoY2": {
+        "type": "object",
+        "properties": {
+          "age": { "type": "string" },
+          "bio": { "type": "string" },
+          "image": { "type": "string", "format": "uri" },
+          "name": { "type": "string" },
+          "pronouns": { "type": "string" }
+        },
+        "required": ["age", "bio", "image", "name", "pronouns"]
+      },
+      "YzZe1bxjonYv4Nt7ZnMmcSCMhOe2": {
+        "type": "object",
+        "properties": {
+          "age": { "type": "string" },
+          "bio": { "type": "string" },
+          "image": { "type": "string", "format": "uri" },
+          "name": { "type": "string" },
+          "pronouns": { "type": "string" }
+        },
+        "required": ["age", "bio", "image", "name", "pronouns"]
+      },
+      "highScore": { "type": "integer" }
+    },
+    "required": ["JZbU8EL0KHQYqG58Q8g3OePZPoY2", "YzZe1bxjonYv4Nt7ZnMmcSCMhOe2", "highScore"]
+  }
+  
