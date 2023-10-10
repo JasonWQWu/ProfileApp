@@ -57,6 +57,36 @@
     },
     "children": [
         {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-1359128620018133~7890196404",
+                "AdUnitID_iOS": "ca-app-pub-1359128620018133~7890196404",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": 0,
+                "ParentId": "b089cda5-3ee3-49c9-8a5d-896c691f0c15",
+                "Y": 515.3125,
+                "RelativeX": 0,
+                "RelativeY": 515,
+                "position": "absolute",
+                "edgeOffsets": 515.3125,
+                "style": {
+                    "position": "absolute",
+                    "left": "46.586669921875%",
+                    "top": "70.5116191904048%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "6b8e7d78-f00e-4227-999e-e7633ce46fd2",
+            "thunkableVersion": 423,
+            "name": "AdMob_Banner1"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -179,10 +209,10 @@
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
-                "X": 33,
-                "Y": 538,
-                "RelativeX": 33,
-                "RelativeY": 538,
+                "X": 38,
+                "Y": 385,
+                "RelativeX": 38,
+                "RelativeY": 385,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -213,7 +243,7 @@
                 "Disabled": false,
                 "ParentId": "b089cda5-3ee3-49c9-8a5d-896c691f0c15",
                 "position": "absolute",
-                "edgeOffsets": 538
+                "edgeOffsets": 385
             },
             "children": [],
             "id": "5519d98c-dc01-40ef-afcc-7b10b828485e",
@@ -233,14 +263,14 @@
                 "offThumbTintColor": "rgba(248, 249, 251, 100)",
                 "Height": 21,
                 "Width": 42,
-                "X": 243.99609375,
-                "Y": 346.9921875,
-                "RelativeX": 243.99609375,
-                "RelativeY": 346.9921875,
+                "X": 253,
+                "Y": 292,
+                "RelativeX": 253,
+                "RelativeY": 292,
                 "ResizeMode": "STRETCH",
                 "ParentId": "b089cda5-3ee3-49c9-8a5d-896c691f0c15",
                 "position": "absolute",
-                "edgeOffsets": 346.9921875,
+                "edgeOffsets": 292,
                 "style": {
                     "position": "absolute",
                     "left": "56.66458333333333%",
@@ -267,10 +297,10 @@
                 "Height": 30,
                 "Width": 177,
                 "Visible": true,
-                "X": 12,
-                "Y": 347,
-                "RelativeX": 12,
-                "RelativeY": 347,
+                "X": 45,
+                "Y": 288,
+                "RelativeX": 45,
+                "RelativeY": 288,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -312,7 +342,7 @@
                 },
                 "ParentId": "b089cda5-3ee3-49c9-8a5d-896c691f0c15",
                 "position": "absolute",
-                "edgeOffsets": 347.99609375000006,
+                "edgeOffsets": 288,
                 "children": "Save these details?"
             },
             "children": [],
@@ -332,10 +362,10 @@
                 "Height": 51,
                 "Width": 112,
                 "Visible": true,
-                "X": 132,
-                "Y": 454,
-                "RelativeX": 132,
-                "RelativeY": 454,
+                "X": 131,
+                "Y": 322,
+                "RelativeX": 131,
+                "RelativeY": 322,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -366,7 +396,7 @@
                 "Disabled": false,
                 "ParentId": "b089cda5-3ee3-49c9-8a5d-896c691f0c15",
                 "position": "absolute",
-                "edgeOffsets": 454.00000000000006
+                "edgeOffsets": 322
             },
             "children": [],
             "id": "646f314e-edd4-415a-af07-a5c5157de48b",

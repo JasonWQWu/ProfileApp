@@ -21,8 +21,8 @@
                     "createdAt": "2023-09-25T19:33:08.046Z",
                     "updatedAt": "2023-09-25T19:33:08.046Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5079e12064c9c03a58a/projects/6509c6d8a070c23a8cbf50e0/assets/6511e07310236ff13c5c6804?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230925T193308Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0bd8e839d0d30798fed15ea5c5f0b8e58c5b1f2f356290f191adf7253654037ba81b4d81b9b4c69bf6805bc9f1ea3d2b2f1aba38b8f13bc861cc2e94d4a22343ec7154425c8209aa929811934b8f433860fa18abc77648f9ac3800645bceaab64541f03516966632730eeb6e335a9eac4bfc6b0d71b21e4aee7dd3a853ab3e63b98943ffcbccac139e9d7e22800a02c27db737d667d7fbf2f067a8e950d6b4f67200ea769c961dcd1a2854d6b4cd7095da328e26d6d9a9d13325f65baf7d77f89615ee88744d9a858ed0fced43d54ef103c627f537dfa59f59aa1f6d970d9993ff0b7d21f5340e0ac5cec28ce0be433bdd4c5b20de7cb4f6ebc574cc62c94aae",
-                    "signedUrlExpirationTime": 1695843188088
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5079e12064c9c03a58a/projects/6509c6d8a070c23a8cbf50e0/assets/6511e07310236ff13c5c6804?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231010%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231010T004634Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=122b33a7fe57b08c09651c9c51600b59203dd83d0454b3f69a76bfd4534debf0524642792611401d88e10f9e04c45ab4f38a5f162eee0c04e8c130e512f6042f8986268c50bf2ae6304c73d4756f0623595bcacbfbf4aeab3446173f9b8deac1dbf35fd169e47da46d94c4f94617ae9e7de7d275258870f6a941334b1fe92442107ff0bec0044b054021795befc692f8b53c2d659b9ff84d12b1fc00a1802c3770deb5d8954baf3e00d29a955919ce795a6043e6f552a7b676f9e22ee53b24e95fff8ab2f9e159006ebde6bb8a9389d16dbb302da44e9731156bebbbd88352d8f7bd382b951486fa428137ec96a137de4643fc25638140a24cf85f9bb852d243",
+                    "signedUrlExpirationTime": 1697071594948
                 },
                 "6511e08f10236f86ec5c7b45": {
                     "externalStorageType": "GCS",
@@ -37,8 +37,8 @@
                     "createdAt": "2023-09-25T19:33:35.288Z",
                     "updatedAt": "2023-09-25T19:33:35.288Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5079e12064c9c03a58a/projects/6509c6d8a070c23a8cbf50e0/assets/6511e08f10236f86ec5c7b45?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230925T193335Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3427dbdcbfcad18d9e75ac6a0610a52b8d7ff04f19017d889f95a19cb11c1c2ebca62ea5126b784f32f06be06c268ec4cd1d836eb4aafb57b683a6f99f331d9378ef16bd94e43e0b1d800eea165e243370656dc6d748bb72ba08780647bbe34fe2c87a0a690e80f07a501d8f91d66e85a40a49344cb4d87fddec29e3cc74b411b150902a359238c527e33d84a389255da410bf7f67a6e5d35c98dcb096baca47465a273cbe006c36f50249fd4785a01e5de3515d451e037ee2116f7e0f224c641b900e585094b7dfe3aaeb0365098efa7afe08fa02a4442209bac3861b6c07d413a5ca3e7fc826ee62c1d3481c2d2a1b3d48af5477732af1373fec52adce7392",
-                    "signedUrlExpirationTime": 1695843215320
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5079e12064c9c03a58a/projects/6509c6d8a070c23a8cbf50e0/assets/6511e08f10236f86ec5c7b45?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231010%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231010T004634Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=ae739a5c527363731cf4e5d34ac4b5dfd3fbfd70b8f139b69ee9310056f083ff985d631355009ec70077a3c3e8bca7459133db6dedbc88637fbb6358cc6e1c78e6b4a66998b003904123fa518c646d341ffc8ad5c1a04dde2cc63512706c8b1674968bccfc17ee18189cdc0dde360322c6e0b1d70b53b3c56707bd63899faa19175f82207edd43f89fef1656ee0f7a5cb73daabca1fbc6a7ec9d893705ad1243b047e3941ad8e891401da4b0abf9ab4aa01f2fc19191c1285b6756024b975776c7ddfa048a28bc44ad22bc953e91f6d8a8433c2dc87e017342a0b06f3339fd2f5ca45b521d789cce37fc49cb3781b8ae4df93ea17225343b0b659de4199d9a5d",
+                    "signedUrlExpirationTime": 1697071594951
                 }
             },
             "backendUpgradeVersion": 21,
@@ -155,10 +155,7 @@
                 "cloudinaryAPISecret": "rLWO_avSeBCUWrVw6TaUESogHTY",
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -204,10 +201,7 @@
                 "cloudinaryAPISecret": "rLWO_avSeBCUWrVw6TaUESogHTY",
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -222,7 +216,7 @@
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": false,
+            "hasAdmob": true,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
@@ -231,7 +225,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "2",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
